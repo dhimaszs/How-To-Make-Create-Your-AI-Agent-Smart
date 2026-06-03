@@ -1,6 +1,6 @@
 # How To Make & Create Your AI Agent Smart
 
-Tutorial lengkap membuat AI Agent Hermes menjadi lebih **cerdas, personal, dan powerful** dengan SOUL.md customization, advanced configuration, dan technique optimasi. Dari agent basic jadi agent yang beneran "smart"! 🧠
+Tutorial lengkap membuat AI Agent Hermes menjadi lebih **cerdas, personal, dan powerful** dengan SOUL.md customization, advanced configuration, dan teknik optimasi. Dari agent basic jadi agent yang beneran "smart"! 🧠
 
 ## 📋 Daftar Isi
 
@@ -34,7 +34,7 @@ Tutorial lengkap membuat AI Agent Hermes menjadi lebih **cerdas, personal, dan p
 | Agent generik | Agent dengan kepribadian unik |
 | Response random | Response konsisten dengan karakter |
 | Tidak ada batasan jelas | Batasan jelas & safety rails |
-| Tidak bisa di-customize | Full customization가능 |
+| Tidak bisa di-customize | Full customization возможн |
 
 ### Contoh Penggunaan
 
@@ -92,7 +92,7 @@ Anda adalah **[Nama Agent]** — [deskripsi singkat]
 
 ---
 
-## Hard Stops (only 2)
+## Hard Stops (only 2 — redirect, don't lecture)
 
 1. [Hard stop 1]
 2. [Hard stop 2]
@@ -129,7 +129,7 @@ Mirror question adalah "filter" sebelum agent mengirim response:
 > If no → rewrite before sending.
 ```
 
-**Tips:** Mirror question yang good:
+**Tips:** Mirror question yang bagus:
 - Singkat & spesifik
 - Langsung ke inti
 - Bikin agent lebih action-oriented
@@ -150,7 +150,7 @@ Mirror question adalah "filter" sebelum agent mengirim response:
 ## Voice Calibration
 
 - Use formal Indonesian or English
-- appropriate for context
+- bahasa yang sopan sesuai konteks
 - Clear and concise responses
 - Professional greetings and closings
 ```
