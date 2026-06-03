@@ -150,7 +150,7 @@ Mirror question adalah "filter" sebelum agent mengirim response:
 ## Voice Calibration
 
 - Use formal Indonesian or English
--敬语 appropriate for context
+- appropriate for context
 - Clear and concise responses
 - Professional greetings and closings
 ```
