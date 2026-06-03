@@ -691,21 +691,29 @@ hermes/
 
 ## 📚 Referensi
 
+### Tools dan Services yang Dipakai
+
+- [FreeLLMAPI](https://freellmapi.com) — Unified free AI models API (key: freellmapi-d6ffd3f42424f45c3f460a25854164542f6c9ab12d181b85)
+- [Vast.ai](https://vast.ai) — Rent GPU untuk mining atau compute
+- [GitHub](https://github.com) — Repository hosting & version control
+- [Groq Console](https://console.groq.com) — Fast inference (alternatif)
+- [Telegram Bot API](https://core.telegram.org/bots/api) — Bot integration
+
 ### Official Documentation
 
 - [Hermes Agent Docs](https://hermes-agent.nousresearch.com)
 - [SOUL.md Specification](https://hermes-agent.nousresearch.com/docs/soul)
+- [Hermes GitHub](https://github.com/NousResearch/Hermes)
 
-### Tools dan Services
+### Repo Terkait
 
-- [GitHub](https://github.com) — Repository hosting
-- [FreeLLMAPI](https://freellmapi.com) — Free AI models
-- [Groq Console](https://console.groq.com) — Fast inference
+- [dhimaszs/How-To-Make-Create-Your-AI-Agent-Smart](https://github.com/dhimaszs/How-To-Make-Create-Your-AI-Agent-Smart) — Repo ini
+- [NousResearch/Hermes](https://github.com/NousResearch/Hermes) — Hermes Agent official repo
 
 ### Community
 
-- [Hermes GitHub](https://github.com/NousResearch/Hermes)
 - [r/localai](https://reddit.com/r/localai) — Local AI community
+- [Vast.ai Discord](https://discord.gg/vastai) — GPU rental community
 
 ---
 
