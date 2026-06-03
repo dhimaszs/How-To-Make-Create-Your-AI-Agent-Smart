@@ -693,7 +693,7 @@ hermes/
 
 ### Tools dan Services yang Dipakai
 
-- [FreeLLMAPI](https://freellmapi.com) — Unified free AI models API (key: freellmapi-d6ffd3f42424f45c3f460a25854164542f6c9ab12d181b85)
+- [FreeLLMAPI](https://freellmapi.com) — Unified free AI models API
 - [Vast.ai](https://vast.ai) — Rent GPU untuk mining atau compute
 - [GitHub](https://github.com) — Repository hosting & version control
 - [Groq Console](https://console.groq.com) — Fast inference (alternatif)
