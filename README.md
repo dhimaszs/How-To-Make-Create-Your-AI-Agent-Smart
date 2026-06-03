@@ -1,6 +1,6 @@
 # Cara Bikin AI Agent Kamu Jadi Smart
 
-Tutorial lengkap bikin AI Agent Hermes jadi lebih **cerdas, personal, dan powerful** dengan kustomisasi SOUL.md, konfigurasi lanjutan, dan teknik optimasi. Dari agent平平 jadi agent yang beneran "smart"! 🧠
+Tutorial lengkap bikin AI Agent Hermes jadi lebih **cerdas, personal, dan powerful** dengan kustomisasi SOUL.md, konfigurasi lanjutan, dan teknik optimasi. Dari agent biasa jadi agent yang beneran "smart"! 🧠
 
 ## 📋 Daftar Isi
 
